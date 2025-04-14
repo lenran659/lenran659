@@ -1,3 +1,4 @@
+<img src="./Versakit.jpg" width="400px">
 ## Hi there  I am Jannik
 
 > A Front end developer from **NanJing, China**.
