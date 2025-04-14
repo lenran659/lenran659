@@ -1,4 +1,4 @@
-<img src="./Versakit.jpg" width="400px">
+<img src="https://github.com/Simonmie/Simonmie/blob/main/Versakit.jpg" width="400px">
 ## Hi there  I am Jannik
 
 > A Front end developer from **NanJing, China**.
