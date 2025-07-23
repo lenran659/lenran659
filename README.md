@@ -2,7 +2,7 @@
 
 ## Hi there  I am Jannik
 
-> A Front end developer from **NanJing, China**.
+> A Front end developer from **ShangHai, China**.
 
 ### 🏗️ Learning:
 
